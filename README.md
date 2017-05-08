@@ -1,1 +1,1 @@
-# Simple-NRF-comm.
+# Full Duplex communication
